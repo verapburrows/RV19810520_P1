@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "19810520_P1" ] },
+    "summary": { "en": [ "Radio Venceremos 20 MAY 1981 parte 1" ] },
+    "items": [
+    ]
+}
